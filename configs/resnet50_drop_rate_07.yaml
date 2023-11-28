@@ -1,0 +1,2 @@
+checkpoint_path: "/NS/robustness_2/work/vnanda/invariances_in_reps/deep-learning-base/checkpoints/imagenet/resnet50drop_rate_0.7_bs_256_seed_420_lr_0.01_opt_sgd_step_500.0_warmup_1000_gradclip_1.0/epoch=48-topk=1.ckpt"
+append_path: "drop_rate_0.7"
